@@ -1,1 +1,1 @@
-// @minecraftczlek
+console.log("niewiem");
